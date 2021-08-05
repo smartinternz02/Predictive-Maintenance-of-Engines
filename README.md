@@ -17,6 +17,12 @@ https://drive.google.com/file/d/1YCKazEHcmohJYLUoeCWYqYkGkqSCkc-W/view
 - Flask Framework
 - IBM Watson Studio
 
+## Dataset Used
+The data used here was provided by NASA via Azure
+- PM_Train.txt
+- PM_Test.txt
+- PM_Truth.txt
+
 ## UI Screenshots
 - Home Page 
 
